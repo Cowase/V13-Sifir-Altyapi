@@ -1,0 +1,18 @@
+{
+    "SERVER": {
+        "ID": "934759883687989258" 
+    },
+
+    "TOKENS": {
+        "REGISTER":"OTM0NDc4NDI1MTQwMzc5NzI5.Yewq2g.jSbwrlMWEOUKHfUtWXw0MIQ0c1o"
+    },
+
+    "BOT": {
+        "Status": "dnd",
+        "Text": "Orospu Çocuğu Şehira",
+        "MongoURL": "mongodb://127.0.0.1/SehiraTEST",
+        "VoiceChannelID": "942355608240267264",
+        "Prefixs": [".","+","!"],
+        "Owners": ["327236967265861633"]
+    }
+}
