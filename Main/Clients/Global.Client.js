@@ -7,7 +7,7 @@ const { glob } = require("glob");
 const { promisify } = require("util");
 const globPromise = promisify(glob);
 const fs = require('fs')
-class SEHIRA extends Client {
+class COWASE extends Client {
     constructor (...options) {
         super({
             options,
@@ -93,4 +93,4 @@ class SEHIRA extends Client {
 }
 }
 
-module.exports = { SEHIRA }
+module.exports = { COWASE }

@@ -2,7 +2,7 @@ module.exports = {
     apps: [
       {
         name: "Menü Sistemi",
-        namespace: "SEHIRA",
+        namespace: "COWASE",
         script: 'main.sehira',
         watch: false,
         exec_mode: "cluster",
