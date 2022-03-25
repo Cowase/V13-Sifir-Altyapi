@@ -1,9 +1,0 @@
-const { SEHIRA } = require('../../Main/Clients/Global.Client');
-const Thetis = require('../../Main/Plugins/Message.Guard');
-const { Mongoose } = require('../../Main/Databases/Connect.MongoDB.Driver');
-const client = global.client = new SEHIRA();
-client.botName = "Moderation"
-Mongoose.Connect()
-client.fetchCommands()
-client.fetchEvents()
-client.connect(sistem.TOKENS.VOUCHER)
